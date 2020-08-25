@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BLONJAY/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 林宗翰
+### Senior iOS Developer(5年) 
+### iOS Team Leader(2年) 
+### PMI-ACP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+    個人經歷過系統廠(英華達)與純軟公司(天旭)，專案產品包括 穿戴式裝置、工業4.0、遊戲產品 對各項領域都有涉獵 ，且擅長與專案裡各種角色溝通，不論是與台灣或者對岸的RD 、ＰM、QA都能快速達成共識並以最有效率的方式解決問題，團隊合作愉快且效率是我最大的成就感，並在接觸的agile 相關知識之後，試著在帶領團隊時導入，且自我進修來系統化的去學習並考取PMI的敏捷證照，能與實務相互輝映． 
+```
+ 
+```
+專案上 
 
-### Markdown
+    喜歡透過 Trello 透明的呈現專案的進度樣貌 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    喜歡透過 軟體PoP 設計草圖輔助產品的討論 
 
-```markdown
-Syntax highlighted code block
+    喜歡透過 有效且具同理心的溝通來取得雙贏 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    喜歡透過 分析排序需求讓團隊有效率的開發
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 專案經歷
 
-### Jekyll Themes
+### 體育彩票app，2019 年 8月 - 2020年8月 (1年)
+- 自我進修考取PMI-ACP 證照
+- 導入agile帶領團隊完成體育彩票app
+- 透過zeplin 與企劃 UX 達到共識
+- 使用Trello 與企劃管理需求,將進度與需求對整個團隊透明化
+- 導入自動化來減少繁複的步驟
+- 腳本混淆加密提升安全性
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BLONJAY/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 視訊棋牌app，2019 年 4 月 - 2019年8月 (0.5年)
+- Objective-C 開發
+- 使用Protocol buffer 搭配 GCDSocket 與後端互動
+- 使用ijkPlayer來完成影音串流互動．
+- SDK的封裝開發
+- app 資訊加密
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 遊戲推廣app，2018 年 7 月 - 2019年2月 (0.5年) 
+- Swift 語言開發
+- UI架構設計
+- Unit Test的導入
+- 自動化導入jenkins/gitlab/fastlane
+
+
+### 機器手臂軟體控制器，2016 年 9 月 - 2018年4月 (1.5年)
+- 與工研院合作共同開發六軸機器手臂，並透過了解產線運作需求，設計所需的動作語言與軟體控制器介面
+- 使用 C# 撰寫控制軟體的  GUI
+- 使用 C 開發自有的腳本語言解譯器
+- 實現解譯腳本語言與調用機器人運動學
+- 使用多執行緒實現腳本語言運行的狀態機
+
+### MFI 產測 App，2016 年 3 月 - 2016 年8 月 (0.5年)
+- 與治具廠商共同完成apple 音效產品的的測試流程
+- iOS App 導入 MFI Accessory 協定
+- iOS App 的配件音訊測試功能
+- 建立相關 api 給 Mac 主控端使用
+- 建立 iPhone 與  Mac 電腦之間的 usbmuxd 通訊
+- 建立企業版內測 App，透過 fir.im 發佈產測 App
+- 建立 App log 追蹤系統
+
+### 千里健康  iOS App，2015 年 2 月 - 2016 年 2 月 (1年)
+- 運動社交型 App
+- 開發憑證管理
+- App 上架管理
+- GPS 軌跡記錄
+- 地圖呈現功能 
+- 藍牙配件的接入通訊
+- 通知 Widget 導入 
+- App背景長時間運行
+- 建立 App log 追蹤系統
+
+
+### 千里手環，2014 年 1 月 - 2015 年 2 月 (1年)
+- 穿戴式設備 App
+- 開發憑證管理 
+- App 上架管理
+- APNS 推送服務
+- 手機計步算法開發
+- FB / 微博 / 微信  第三方登入、分享功能開發
+
+
+### 驅動開發，2012 年 12 月 - 2013 年 12 月 (1年)
+- Android 手機  BSP Driver開發
+- Led 閃爍驅動
+- Battery 驅動
